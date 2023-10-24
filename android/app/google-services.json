@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526100943230",
+    "project_id": "studynut-d35d7",
+    "storage_bucket": "studynut-d35d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526100943230:android:1255d3c4eca0ef31b2232f",
+        "android_client_info": {
+          "package_name": "com.example.studynut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526100943230-0h5pdt1c1b2gmakvdptbqbmim3v10uc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChyx2d3PLKz5CHfzwadFobFCQkQ1lfUyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526100943230-0h5pdt1c1b2gmakvdptbqbmim3v10uc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
